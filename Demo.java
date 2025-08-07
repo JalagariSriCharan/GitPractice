@@ -5,6 +5,5 @@ class Demo{
         System.out.println("Helloo 2");
         System.out.println("Helloo 3");
         System.out.println("Helloo 5");
-
     }
 }
